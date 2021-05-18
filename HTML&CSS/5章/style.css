@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+  text-align: center;
+  padding: 20px 0px 20px 0px;
+}
+
+.nav {
+  border: 1px solid black;
+}
+
+ul {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+li {
+  list-style: none;
+}
+
+.list {
+  margin: 15px 20px;
+}
+
+.green {
+  display: flex;
+  align-content: left;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.satu {
+  background-color: #e6ffe9;
+  width: 200px;
+  height: 200px;
+}
+
+.dua {
+  background-color: #cbffd3;
+  width: 200px;
+  height: 200px;
+}
+
+.tiga {
+  background-color: #aeffbd;
+  width: 200px;
+  height: 200px;
+}
+
+.empat {
+  background-color: #93ffab;
+  width: 200px;
+  height: 200px;
+}
+
+.yellow {
+  display: flex;
+  align-content: left;
+  justify-content: center;
+}
+
+.lima {
+  background-color: #f3ffd8;
+  width: 200px;
+  height: 200px;
+}
+
+.enam {
+  background-color: #edffbe;
+  width: 200px;
+  height: 200px;
+}
+
+.tujuh {
+  background-color: #e9ffa5;
+  width: 200px;
+  height: 200px;
+}
+
+.delapan {
+  background-color: #e4ff8d;
+  width: 200px;
+  height: 200px;
+}
+
+.blue{
+  display: flex;
+  align-content: left;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.sembilan {
+  background-color: #d9e5ff;
+  width: 200px;
+  height: 200px;
+}
+
+.sepuluh {
+  background-color: #bad3ff;
+  width: 200px;
+  height: 200px;
+}
+
+.sebelas {
+  background-color: #a4c6ff;
+  width: 200px;
+  height: 200px;
+}
+
+.dua-belas {
+  background-color: #8eb8ff;
+  width: 200px;
+  height: 200px;
+}
+
+.footer {
+  background-color: gray;
+  width: 100%;
+  height: 120px;
+  color: white;
+  text-align: center;
+  padding: 45px 0;
+}
